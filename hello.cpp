@@ -1,4 +1,4 @@
-// Travis example for C++ by Rafał Pocztarski
+// Travis example for Modern C++ by Rafał Pocztarski
 // For more languages and info see:
 // https://github.com/rsp/travis-hello#readme
 

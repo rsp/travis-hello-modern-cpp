@@ -1,6 +1,6 @@
-Travis Hello C++ [![License][license-img]][license-url] [![GitHub Stars][stars-img]][stars-url] [![GitHub Forks][forks-img]][forks-url] [![GitHub Watchers][watchers-img]][watchers-url] [![Tweet][tweet-img]][tweet-url]
+Travis Hello Modern C++ [![License][license-img]][license-url] [![GitHub Stars][stars-img]][stars-url] [![GitHub Forks][forks-img]][forks-url] [![GitHub Watchers][watchers-img]][watchers-url] [![Tweet][tweet-img]][tweet-url]
 =
-Simple Travis example for C++
+Simple Travis example for C++ using modern GCC and Clang compilers. (For a version using default compilers see: [travis-hello-cpp][cpp-url])
 
 [<img alt="Build Status" src="https://travis-ci.org/rsp/travis-hello-cpp.svg?branch=master" height="40">][travis-url]
 
@@ -11,7 +11,7 @@ Important files:
 * [test](test)
 * [.travis.yml](.travis.yml)
 
-For more info and list of other languages see:
+For more info and examples for other languages see:
 
 * https://github.com/rsp/travis-hello
 
@@ -37,6 +37,7 @@ License
 MIT License (Expat). See [LICENSE.md](LICENSE.md) for details.
 
 [main-url]: https://github.com/rsp/travis-hello
+[cpp-url]: https://github.com/rsp/travis-hello-cpp
 [github-url]: https://github.com/rsp/travis-hello-cpp
 [readme-url]: https://github.com/rsp/travis-hello-cpp#readme
 [issues-main-url]: https://github.com/rsp/travis-hello/issues
