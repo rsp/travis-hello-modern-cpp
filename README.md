@@ -39,7 +39,7 @@ MIT License (Expat). See [LICENSE.md](LICENSE.md) for details.
 [forks-img]: https://img.shields.io/github/forks/rsp/travis-hello-cpp.svg?style=social&amp;label=Forks
 [watchers-img]: https://img.shields.io/github/watchers/rsp/travis-hello-cpp.svg?style=social&amp;label=Watchers
 [tweet-img]: https://img.shields.io/twitter/url/https/github.com/rsp/travis-hello-cpp.svg?style=social
-[tweet-url]: https://twitter.com/intent/tweet?text=%23Travis+examples+by+@pocztarski:&url=https%3A%2F%2Fgithub.com%2Frsp%2Ftravis-hello-cpp
+[tweet-url]: https://twitter.com/intent/tweet?text=%23Travis+example+for+C%2b%2b+by+@pocztarski:&url=https%3A%2F%2Fgithub.com%2Frsp%2Ftravis-hello-cpp
 [license-url]: https://github.com/rsp/travis-hello-cpp/blob/master/LICENSE.md
 [license-img]: https://img.shields.io/github/license/rsp/travis-hello-cpp.svg
 [travis-url]: https://travis-ci.org/rsp/travis-hello-cpp
