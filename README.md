@@ -4,6 +4,8 @@ Simple Travis example for C++ using modern GCC and Clang compilers.
 
 (For a version using default compilers see: [travis-hello-cpp][cpp-url])
 
+Why a separate vesrion? As you can see [adding -std=c++14 to Makefile](https://github.com/rsp/travis-hello-modern-cpp/commit/91ae62f448733b4e43ca3b8fffbd96d7dfc29c5a) has resulted in [breaking the build](https://travis-ci.org/rsp/travis-hello-modern-cpp/builds/171760012) for both GCC and Clang because Travis uses old versions of compilers by default. The changes to .travis.yml were needed to fix it.
+
 [<img alt="Build Status" src="https://travis-ci.org/rsp/travis-hello-modern-cpp.svg?branch=master" height="40">][travis-url]
 
 Important files:
