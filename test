@@ -13,6 +13,6 @@ fail ( ) {
     exit 1
 }
 
-cmp <(./z01) <(echo $z01o) && pass || fail
+cmp <(./hello) <(echo $z01o) && pass || fail
 
 echo ALL TESTS PASSED
