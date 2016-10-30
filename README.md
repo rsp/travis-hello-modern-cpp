@@ -30,7 +30,7 @@ MIT License (Expat). See [LICENSE.md](LICENSE.md) for details.
 [main-url]: https://github.com/rsp/travis-hello
 [github-url]: https://github.com/rsp/travis-hello-cpp
 [readme-url]: https://github.com/rsp/travis-hello-cpp#readme
-[issues-main-url]: https://github.com/rsp/travis-hello-cpp/issues
+[issues-main-url]: https://github.com/rsp/travis-hello/issues
 [issues-ver-url]: https://github.com/rsp/travis-hello-cpp/issues
 [stars-url]: https://github.com/rsp/travis-hello-cpp/stargazers
 [watchers-url]: https://github.com/rsp/travis-hello-cpp/watchers
