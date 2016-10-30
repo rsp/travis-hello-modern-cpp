@@ -15,4 +15,4 @@ clean:
 	$(RM) $(ALL) *.o
 
 test: all
-	sh test.sh
+	bash test
