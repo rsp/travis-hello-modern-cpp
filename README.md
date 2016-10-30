@@ -2,6 +2,10 @@ Travis Hello C++ [![License][license-img]][license-url] [![GitHub Stars][stars-i
 =
 Simple Travis example for C++
 
+[<img alt="Build Status" src="https://travis-ci.org/rsp/travis-hello-cpp.svg?branch=master" height="40">][travis-url]
+
+https://travis-ci.org/rsp/travis-hello-cpp.svg?branch=master
+
 For more info and list of other languages see:
 
 * https://github.com/rsp/travis-hello
