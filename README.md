@@ -4,7 +4,7 @@ Simple Travis example for C++ using modern GCC and Clang compilers.
 
 (For a version using default compilers see: [travis-hello-cpp][cpp-url])
 
-Why a separate vesrion? As you can see [adding -std=c++14 to Makefile](https://github.com/rsp/travis-hello-modern-cpp/commit/91ae62f448733b4e43ca3b8fffbd96d7dfc29c5a) has resulted in [breaking the build](https://travis-ci.org/rsp/travis-hello-modern-cpp/builds/171760012) for both GCC and Clang because Travis uses old versions of compilers by default. The changes to .travis.yml were needed to fix it.
+Why a separate vesrion? As you can see [adding -std=c++14 to Makefile](https://github.com/rsp/travis-hello-modern-cpp/commit/91ae62f448733b4e43ca3b8fffbd96d7dfc29c5a) has resulted in [breaking the build](https://travis-ci.org/rsp/travis-hello-modern-cpp/builds/171760012) for both GCC and Clang because Travis uses old versions of compilers by default. The [changes to .travis.yml](https://github.com/rsp/travis-hello-modern-cpp/commit/e1150984643c0ba2e53b9e4c0ce8939b528f850e) were needed to [fix it](https://travis-ci.org/rsp/travis-hello-modern-cpp/builds/171760541). The downside is that the tests now take longer. If you don't need modern C++ then the example in [travis-hello-cpp][cpp-url] is faster.
 
 [<img alt="Build Status" src="https://travis-ci.org/rsp/travis-hello-modern-cpp.svg?branch=master" height="40">][travis-url]
 
