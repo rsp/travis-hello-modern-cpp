@@ -41,7 +41,7 @@ License
 MIT License (Expat). See [LICENSE.md](LICENSE.md) for details.
 
 [main-url]: https://github.com/rsp/travis-hello
-[cpp-url]: https://github.com/rsp/travis-hello-modern-cpp
+[cpp-url]: https://github.com/rsp/travis-hello-cpp
 [github-url]: https://github.com/rsp/travis-hello-modern-cpp
 [readme-url]: https://github.com/rsp/travis-hello-modern-cpp#readme
 [issues-main-url]: https://github.com/rsp/travis-hello/issues
